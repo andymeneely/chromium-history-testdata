@@ -1,0 +1,1005 @@
+C,./chrome/common/pref_names.cc,63,38,480
+C,./ppapi/proxy/ppapi_param_traits.h,59,39,300
+C/C++ Header,./chrome/browser/chromeos/login/eula_view.h,308,509,4908
+C,./chrome/browser/chromeos/login/network_screen.cc,284,198,1000
+C/C++ Header,./chrome/browser/instant/instant_loader.h,328,29,398
+Python,./tools/grit/grit/format/policy_templates/writers/doc_writer.py,63,38,437
+C,./third_party/mesa/MesaLib/src/gallium/winsys/radeon/drm/radeon_drm_buffer.c,104,24,431
+yacc,./third_party/mesa/MesaLib/src/glsl/glcpp/glcpp-parse.y,285,189,1392
+C++,./chrome/browser/dom_ui/ntp_login_handler.cc,11,3,41
+C/C++ Header,./chrome/browser/desktop_notification_handler.h,11,7,29
+C/C++ Header,./base/id_map.h,35,33,131
+C++,./base/tracked.cc,24,7,86
+C++,./third_party/mesa/MesaLib/src/glu/sgi/libnurbs/nurbtess/directedLine.cc,122,157,581
+C/C++ Header,./chrome/browser/certificate_viewer.h,8,6,11
+C++,./chrome/browser/webdata/web_data_service_unittest.cc,70,43,434
+Perl,./third_party/lcov/bin/genpng,53,99,229
+HTML,./o3d/samples/simpleviewer/simpleviewer.html,54,27,284
+C/C++ Header,./webkit/glue/media/simple_data_source.h,27,23,86
+C/C++ Header,./chrome/browser/instant/promo_counter.h,20,23,35
+C++,./jingle/notifier/listener/talk_mediator_unittest.cc,39,19,134
+HTML,./third_party/pyftpdlib/doc/roadmap.lnk.html,2,0,10
+C++,./tools/memory_watcher/ia32_modrm_map.cc,5,43,72
+C,./third_party/libxslt/libxslt/attributes.c,78,406,655
+Javascript,./chrome/test/data/ssl/unsafe_worker.js,0,0,6
+C/C++ Header,./chrome/browser/pdf_unsupported_feature.h,5,7,7
+Ant,./o3d/compiler/glsl_validator/build.xml,6,9,74
+HTML,./chrome/test/data/extensions/api_test/content_scripts/fragment/background.html,8,0,69
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/auxiliary/util/u_transfer.h,42,6,98
+C,./third_party/mesa/MesaLib/src/gallium/drivers/svga/svga_state_framebuffer.c,78,83,279
+HTML,./chrome/browser/resources/textfields.html,9,0,40
+C/C++ Header,./o3d/converter/cross/converter.h,22,60,45
+Python,./third_party/tlslite/test/twistedserver.py,13,1,48
+Objective C++,./chrome/browser/ui/cocoa/bookmarks/bookmark_bar_folder_view.mm,28,44,132
+Python,./tools/sync-webkit-git.py,27,31,127
+HTML,./chrome/test/data/extensions/api_test/window_open/popup_blocking/hosted_app/open_tab.html,0,0,3
+C/C++ Header,./chrome/browser/ui/gtk/tabs/tab_renderer_gtk.h,111,108,237
+C++,./base/third_party/nss/sha512.cc,168,76,1147
+C++,./chrome/browser/ssl/ssl_manager.cc,33,35,203
+C/C++ Header,./third_party/libxml/src/include/libxml/xpathInternals.h,61,242,327
+C++,./chrome/browser/chromeos/options/internet_page_view.cc,105,74,418
+C++,./chrome/browser/printing/print_dialog_cloud_unittest.cc,48,19,277
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/state_tracker/st_atom.h,13,30,29
+C++,./chrome/browser/sync/util/channel_unittest.cc,7,3,22
+C/C++ Header,./webkit/glue/webmediaplayer_impl.h,61,130,138
+Python,./third_party/npapi/npspy/analyze_streams.py,21,6,78
+C++,./webkit/database/database_util.cc,9,8,57
+C++,./chrome/browser/ui/views/ssl_client_certificate_selector_win.cc,10,9,53
+Objective C++,./base/mac/mac_util_unittest.mm,29,16,152
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/auxiliary/util/u_ringbuffer.h,9,2,18
+C/C++ Header,./sandbox/src/restricted_token_utils.h,13,43,27
+C/C++ Header,./chrome/browser/ssl/ssl_error_info.h,16,18,49
+C/C++ Header,./net/http/http_auth_handler_digest.h,34,36,107
+C/C++ Header,./gfx/favicon_size.h,6,9,19
+C,./third_party/mesa/MesaLib/src/mesa/main/ffvertex_prog.c,300,224,1155
+C/C++ Header,./ceee/ie/plugin/bho/tab_window_manager.h,7,8,24
+C/C++ Header,./chrome/browser/chromeos/notifications/notification_panel.h,56,88,103
+Objective C++,./base/threading/platform_thread_mac.mm,9,19,26
+C++,./chrome/browser/file_system/browser_file_system_helper.cc,3,3,17
+HTML,./chrome/common/extensions/docs/examples/extensions/mappy/popup.html,2,0,40
+C++,./net/disk_cache/mem_entry_impl.cc,100,70,326
+C/C++ Header,./webkit/plugins/npapi/test/plugin_thread_async_call_test.h,11,6,22
+C/C++ Header,./webkit/plugins/npapi/test/plugin_private_test.h,7,6,12
+C++,./base/i18n/icu_util_nacl_win64.cc,4,3,6
+C++,./remoting/jingle_glue/xmpp_socket_adapter.cc,68,36,336
+C++,./chrome/common/logging_chrome_uitest.cc,25,37,121
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/tnl_dd/t_dd_vbtmp.h,67,110,498
+HTML,./chrome/app/resources/terms/terms_hr.html,1,0,187
+HTML,./third_party/mesa/MesaLib/docs/relnotes-6.5.1.html,25,0,114
+C/C++ Header,./chrome/browser/ui/cocoa/objc_zombie.h,8,19,12
+C/C++ Header,./ui/base/gtk/gtk_signal.h,19,16,82
+C++,./chrome/common/chrome_version_info.cc,22,8,60
+C/C++ Header,./chrome/browser/browser_url_handler.h,10,23,20
+C++,./chrome/browser/chromeos/login/owner_manager.cc,29,16,162
+C/C++ Header,./chrome/common/font_loader_mac.h,8,27,20
+C++,./base/win/event_trace_controller.cc,30,5,138
+C/C++ Header,./o3d/core/cross/matrix4_scale.h,19,33,43
+C/C++ Header,./third_party/jemalloc/chromium/jemalloc.h,21,137,64
+C++,./o3d/core/cross/matrix4_composition.cc,9,31,26
+C++,./views/controls/combobox/combobox.cc,23,12,86
+HTML,./chrome/third_party/jstemplate/tutorial_examples/10-jsvalues.html,12,15,69
+HTML,./chrome_frame/test/data/sub_frame3.html,1,0,14
+C,./third_party/mesa/MesaLib/src/gallium/auxiliary/util/u_blitter.c,165,105,734
+C/C++ Header,./third_party/sqlite/src/ext/icu/sqliteicu.h,4,15,8
+C++,./chrome/browser/dom_ui/print_preview_ui_uitest.cc,12,11,53
+C/C++ Header,./chrome/common/chrome_version_info.h,15,15,25
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/program/programopt.h,12,23,18
+C/C++ Header,./chrome/browser/ui/cocoa/status_icons/status_tray_mac.h,7,4,13
+C/C++ Header,./third_party/npapi/npspy/extern/nspr/md/_sunos4.h,37,59,137
+C++,./third_party/protobuf/src/google/protobuf/stubs/once.cc,12,40,36
+C++,./net/http/http_auth_handler_ntlm_win.cc,13,10,61
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/drivers/dri/r200/r200_ioctl.h,35,39,99
+C++,./chrome/browser/automation/automation_resource_routing_delegate.cc,5,3,11
+C++,./sandbox/src/interception.cc,100,43,361
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/drivers/i965/brw_state.h,29,41,104
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/state_trackers/vega/vg_manager.h,5,27,9
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/intel/intel_regions.c,84,83,355
+C/C++ Header,./third_party/gpsd/release-2.38/gps.h,45,88,518
+HTML,./o3d/samples/io/io.html,28,27,118
+HTML,./chrome/app/resources/terms/terms_nb.html,1,0,187
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/main/macros.h,131,155,436
+C,./third_party/mesa/MesaLib/src/gallium/state_trackers/python/st_device.c,52,38,215
+make,./net/third_party/nss/ssl/Makefile,18,58,17
+C++,./chrome/browser/password_manager/password_manager_unittest.cc,42,24,210
+C/C++ Header,./third_party/mesa/MesaLib/src/glu/sgi/libnurbs/nurbtess/sampleCompBot.h,17,31,90
+C/C++ Header,./third_party/harfbuzz-ng/src/hb-ot-shape.h,9,25,12
+C/C++ Header,./chrome/browser/ui/gtk/gtk_custom_menu_item.h,26,58,57
+C/C++ Header,./chrome/browser/remoting/setup_flow_start_host_step.h,15,8,37
+C++,./chrome/browser/extensions/extension_crash_recovery_browsertest.cc,71,27,356
+C/C++ Header,./chrome/browser/tab_contents/popup_menu_helper_mac.h,11,9,26
+C/C++ Header,./chrome/renderer/searchbox_extension.h,11,7,24
+C++,./jingle/notifier/base/xmpp_client_socket_factory.cc,8,3,34
+Objective C,./third_party/mozilla/NSScreen+Utils.m,8,36,15
+C/C++ Header,./webkit/plugins/npapi/webplugininfo.h,20,26,50
+C/C++ Header,./webkit/tools/test_shell/test_shell_webthemecontrol.h,25,72,81
+C/C++ Header,./third_party/tcmalloc/chromium/src/base/logging.h,25,76,144
+C++,./o3d/core/cross/precompile.cc,1,30,1
+Tcl/Tk,./third_party/sqlite/src/tool/omittest.tcl,24,33,159
+HTML,./third_party/mesa/MesaLib/docs/sourcedocs.html,10,0,27
+C,./third_party/libxml/src/testModule.c,14,9,59
+C/C++ Header,./chrome/browser/chromeos/login/screen_lock_view.h,26,17,57
+C,./third_party/mesa/MesaLib/src/gallium/auxiliary/rbug/rbug_core.c,72,44,243
+C++,./net/spdy/spdy_stream.cc,90,75,420
+C/C++ Header,./base/test/test_timeouts.h,15,22,33
+C++,./chrome/browser/extensions/extension_bookmarks_apitest.cc,2,3,4
+C/C++ Header,./chrome/browser/ui/views/infobars/extension_infobar.h,18,13,41
+Perl,./third_party/lcov/bin/mcov,44,78,183
+C/C++ Header,./chrome/common/bindings_policy.h,4,14,25
+C++,./views/examples/examples_main.cc,36,11,132
+C++,./chrome/browser/accessibility/browser_accessibility_win_unittest.cc,54,48,259
+C++,./chrome/browser/history/visit_database.cc,77,61,376
+C,./third_party/libjpeg/jdcoefct.c,66,161,509
+Javascript,./chrome/browser/resources/options/cookies_tree.js,29,64,112
+C++,./o3d/core/cross/param_object_test.cc,84,91,314
+C/C++ Header,./gpu/command_buffer/common/types.h,22,94,69
+C,./third_party/mesa/MesaLib/src/gallium/drivers/nv50/nv50_query.c,24,22,121
+C/C++ Header,./chrome/browser/chromeos/login/user_image_loader.h,19,11,32
+HTML,./chrome_frame/test/data/chrome_frame_target_blank.html,7,4,35
+C/C++ Header,./third_party/tcmalloc/vendor/src/base/logging.h,25,76,144
+C/C++ Header,./third_party/tcmalloc/chromium/src/base/sysinfo.h,29,126,78
+C++,./chrome/renderer/pepper_widget.cc,24,4,118
+C++,./chrome/browser/extensions/extension_info_map.cc,25,13,94
+C++,./webkit/glue/idb_bindings.cc,6,5,34
+C/C++ Header,./chrome/common/indexed_db_messages.h,101,96,298
+C++,./gpu/command_buffer/service/common_decoder.cc,40,14,279
+C/C++ Header,./base/linked_list.h,21,85,66
+HTML,./third_party/pyftpdlib/doc/index.html,1,0,157
+C,./third_party/mesa/MesaLib/src/mesa/main/state.c,99,227,408
+C++,./net/disk_cache/in_flight_backend_io.cc,75,22,438
+C++,./media/base/clock_impl_unittest.cc,31,16,170
+C++,./third_party/tcmalloc/chromium/src/tests/profile-handler_unittest.cc,57,111,308
+C++,./chrome/browser/sync/sync_setup_wizard_unittest.cc,72,35,437
+Python,./o3d/tests/selenium/test_runner.py,74,113,225
+C/C++ Header,./net/disk_cache/histogram_macros.h,20,29,71
+C++,./chrome/browser/plugin_service.cc,63,46,430
+C/C++ Header,./base/stl_util-inl.h,65,131,256
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/drivers/cell/ppu/cell_state.h,13,26,26
+C/C++ Header,./chrome/browser/ui/cocoa/location_bar/star_decoration.h,13,10,21
+C/C++ Header,./skia/ext/vector_platform_device_linux.h,27,31,80
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/main/restart.h,8,25,8
+C++,./third_party/mesa/MesaLib/src/glu/sgi/libnurbs/interface/incurveeval.cc,14,56,136
+C++,./chrome/browser/in_process_webkit/dom_storage_context.cc,40,22,227
+C,./third_party/mesa/MesaLib/src/gallium/state_trackers/egl/common/egl_g3d_sync.c,51,48,185
+C/C++ Header,./chrome/browser/ui/gtk/status_icons/status_icon_gtk.h,13,9,25
+C/C++ Header,./third_party/mesa/MesaLib/include/GL/vms_x_fix.h,5,10,1209
+C/C++ Header,./media/filters/ffmpeg_video_decoder.h,27,24,92
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/r300/compiler/radeon_optimize.c,97,122,587
+Objective C++,./chrome/browser/ui/cocoa/browser_frame_view.mm,51,66,282
+C/C++ Header,./third_party/npapi/npspy/extern/nspr/pratom.h,17,121,20
+C/C++ Header,./chrome/browser/download/save_item.h,28,24,60
+C++,./chrome/browser/visitedlink/visitedlink_event_listener.cc,15,7,43
+Javascript,./chrome/browser/resources/options/certificate_backup_overlay.js,17,34,67
+C/C++ Header,./third_party/openmax/il/OMX_Image.h,29,179,120
+C/C++ Header,./third_party/lzma_sdk/Archive/7z/7zIn.h,9,4,42
+C/C++ Header,./chrome/browser/mock_browsing_data_indexed_db_helper.h,16,12,30
+C/C++ Header,./base/bits.h,8,7,33
+C++,./chrome/browser/rlz/rlz_unittest.cc,11,6,48
+C/C++ Header,./remoting/protocol/jingle_connection_to_host.h,28,26,57
+HTML,./chrome/common/extensions/docs/examples/extensions/irc/servlet/index.html,52,1,359
+C/C++ Header,./third_party/tcmalloc/chromium/src/stacktrace_libunwind-inl.h,12,55,61
+C++,./media/audio/audio_output_dispatcher.cc,24,8,83
+C/C++ Header,./ipc/ipc_tests.h,10,10,29
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/i965/brw_eu.c,46,68,146
+Python,./tools/symsrc/pefile.py,953,678,2098
+C++,./sandbox/src/process_policy_test.cc,54,29,211
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/r600/evergreen_chip.c,201,99,1235
+HTML,./webkit/data/test_shell/js/timers.html,14,0,47
+Objective C++,./chrome/browser/ui/cocoa/about_ipc_dialog.mm,7,5,21
+C/C++ Header,./net/base/file_stream.h,25,87,39
+C/C++ Header,./webkit/tools/test_shell/simple_file_system.h,12,6,62
+C++,./chrome/browser/prefs/browser_prefs.cc,10,5,147
+Python,./tools/grit/grit/gather/txt.py,13,4,35
+C++,./chrome/browser/dom_ui/tips_handler.cc,12,14,84
+DOS Batch,./o3d/tests/presubmit_tests.bat,1,30,4
+C/C++ Header,./chrome/browser/appcache/appcache_dispatcher_host.h,18,18,61
+C++,./chrome/browser/sync/util/crypto_helpers_unittest.cc,3,3,21
+C++,./webkit/plugins/ppapi/npapi_glue.cc,32,25,145
+C++,./net/base/host_cache_unittest.cc,93,74,316
+C++,./chrome/browser/chromeos/dom_ui/internet_options_handler.cc,81,43,953
+C,./third_party/mesa/MesaLib/src/gallium/targets/libgl-xlib/xlib.c,35,74,107
+C++,./o3d/core/cross/error_stream_manager.cc,5,30,26
+C++,./chrome/browser/renderer_host/web_cache_manager.cc,65,87,258
+C++,./o3d/plugin/win/plugin_logging-win32.cc,35,57,220
+C/C++ Header,./chrome/browser/extensions/extension_webrequest_api_constants.h,7,6,22
+C++,./chrome/browser/download/download_shelf.cc,20,7,134
+C/C++ Header,./third_party/npapi/npspy/extern/nspr/prerror.h,38,237,48
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/main/varray.h,85,25,131
+C/C++ Header,./ceee/testing/utils/nt_internals.h,27,19,160
+C/C++ Header,./third_party/sqlite/src/src/btree.h,28,60,154
+HTML,./chrome/test/data/frame_dom_access/frame_dom_access.html,0,0,6
+C,./third_party/libwebp/yuv.c,7,10,29
+C++,./views/run_all_unittests.cc,4,3,18
+C++,./net/http/http_proxy_client_socket_pool.cc,54,22,396
+C++,./chrome/browser/modal_html_dialog_delegate.cc,15,7,55
+Python,./tools/grit/grit/grit_runner.py,40,14,154
+C/C++ Header,./chrome/browser/history/download_create_info.h,8,28,48
+C,./third_party/sqlite/src/ext/rtree/rtree.c,284,510,2067
+C++,./chrome/browser/file_path_watcher/file_path_watcher_stub.cc,4,5,10
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/nouveau/nouveau_surface.c,8,25,48
+C++,./net/ftp/ftp_util.cc,40,33,155
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/auxiliary/gallivm/lp_bld_gather.h,10,26,25
+C/C++ Header,./jingle/notifier/listener/push_notifications_subscribe_task.h,16,7,41
+C++,./chrome/browser/chromeos/dom_ui/cros_personal_options_handler.cc,10,5,34
+C/C++ Header,./chrome/browser/ui/window_sizer.h,34,79,71
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/winsys/svga/drm/vmw_fence.h,14,26,19
+C++,./chrome/browser/tab_contents/web_drag_source_win.cc,19,18,86
+C++,./chrome/browser/keychain_mac.cc,12,3,94
+C++,./third_party/tcmalloc/chromium/src/base/vdso_support.cc,48,106,415
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/drivers/dri/i810/i810tris.h,4,24,7
+C++,./ceee/ie/plugin/bho/tool_band_visibility_unittest.cc,32,7,140
+C,./third_party/mesa/MesaLib/src/gallium/auxiliary/util/u_format_s3tc.c,85,37,606
+C/C++ Header,./chrome_frame/html_private_window_impl.h,13,4,49
+Python,./tools/site_compare/scrapers/__init__.py,12,12,10
+Objective C++,./chrome/browser/ui/cocoa/download/download_shelf_view_unittest.mm,5,5,13
+C++,./webkit/plugins/npapi/test/plugin_test.cc,26,23,106
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/drivers/cell/spu/spu_colorpack.h,29,30,86
+C++,./sandbox/src/policy_opcodes_unittest.cc,58,51,235
+C++,./chrome/browser/safe_browsing/protocol_parser_unittest.cc,107,41,778
+C/C++ Header,./chrome/browser/history/expire_history_backend.h,50,137,105
+C/C++ Header,./ui/base/text/text_elider.h,21,58,40
+C/C++ Header,./webkit/glue/cpp_bound_class.h,33,69,78
+C/C++ Header,./o3d/plugin/npapi_host_control/win/module.h,10,36,22
+Objective C++,./chrome/browser/ui/cocoa/info_bubble_window_unittest.mm,4,3,15
+C++,./chrome/browser/chromeos/cros/login_library.cc,30,6,246
+C++,./ui/base/keycodes/keyboard_code_conversion.cc,14,6,276
+C,./third_party/gles2_book/Chapter_9/Simple_TextureCubemap/Simple_TextureCubemap.c,37,59,107
+C/C++ Header,./chrome/browser/extensions/extension_info_map.h,18,23,32
+C/C++ Header,./chrome/browser/sync/engine/net/url_translator.h,8,8,12
+C/C++ Header,./ppapi/tests/test_var_deprecated.h,10,5,24
+C++,./views/controls/menu/menu_host_win.cc,23,10,91
+Objective C++,./chrome/browser/autofill/autofill_address_model_mac.mm,7,3,84
+C++,./chrome/browser/chromeos/notifications/system_notification_factory.cc,8,10,40
+C++,./chrome/browser/password_manager/encryptor_unittest.cc,24,16,103
+C++,./chrome/test/plugin/pdf_browsertest.cc,48,52,242
+C/C++ Header,./chrome_frame/ff_privilege_check.h,3,7,4
+C,./third_party/mesa/MesaLib/src/gallium/drivers/softpipe/sp_fs_exec.c,30,57,116
+C/C++ Header,./webkit/plugins/ppapi/ppb_gles_chromium_texture_mapping_impl.h,7,3,12
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/i965/gen6_gs_state.c,6,27,59
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/mga/mgarender.c,37,36,99
+C++,./chrome/browser/autofill/phone_number.cc,65,12,224
+Bourne Shell,./chrome/installer/mac/dirdiffer.sh,79,129,335
+C++,./o3d/core/win/d3d9/install_check.cc,38,34,186
+C/C++ Header,./chrome/browser/chromeos/dom_ui/language_chewing_options_handler.h,9,5,16
+C/C++ Header,./o3d/core/cross/buffer.h,77,167,153
+C/C++ Header,./chrome/browser/ui/views/importing_progress_view.h,17,17,61
+C++,./webkit/plugins/ppapi/ppb_font_impl.cc,44,20,238
+C/C++ Header,./chrome/browser/ui/gtk/html_dialog_gtk.h,16,10,49
+C/C++ Header,./net/http/http_network_session_peer.h,17,9,52
+C/C++ Header,./chrome/browser/ui/cocoa/importer/importer_lock_dialog.h,6,7,8
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/unichrome/via_context.c,165,99,692
+Objective C++,./chrome/browser/ui/cocoa/multi_key_equivalent_button.mm,7,3,23
+XML,./chrome/test/data/feeds/feed1.xml,0,0,10
+C++,./chrome_frame/event_hooker.cc,10,3,45
+C/C++ Header,./chrome/browser/sessions/session_backend.h,31,66,47
+C++,./chrome/browser/chromeos/input_method/input_method_util.cc,62,59,487
+Python,./chrome/browser/sync/PRESUBMIT.py,3,8,2
+C,./third_party/sqlite/src/src/update.c,51,176,382
+C/C++ Header,./third_party/tcmalloc/chromium/src/heap-profile-table.h,71,157,156
+C/C++ Header,./chrome/browser/autocomplete/search_provider.h,60,114,152
+C,./third_party/mesa/MesaLib/src/egl/main/eglcurrent.c,52,39,227
+C/C++ Header,./chrome/common/deprecated/event_sys.h,11,10,30
+C/C++ Header,./net/url_request/url_request_job_metrics.h,16,14,24
+C/C++ Header,./third_party/npapi/npspy/extern/nspr/md/_os2.h,86,103,396
+C/C++ Header,./remoting/client/plugin/chromoting_scriptable_object.h,29,53,73
+Python,./third_party/pyftpdlib/demo/unix_ftpd.py,18,24,46
+C++,./o3d/core/cross/gpu2d/path_cache.cc,15,30,60
+C/C++ Header,./chrome/browser/password_manager/password_store_win.h,15,17,35
+C/C++ Header,./chrome/common/child_process.h,16,27,29
+C,./third_party/mesa/MesaLib/src/gallium/auxiliary/util/u_linkage.c,15,26,108
+C++,./base/resource_util.cc,7,3,27
+C++,./chrome/renderer/safe_browsing/features_unittest.cc,8,4,32
+C++,./chrome/browser/task_manager/task_manager_unittest.cc,19,8,84
+C/C++ Header,./net/socket_stream/socket_stream_job_manager.h,14,4,28
+C++,./chrome/browser/renderer_host/render_message_filter_win.cc,9,7,32
+C++,./chrome/browser/safe_browsing/safe_browsing_store.cc,33,69,123
+C/C++ Header,./sandbox/src/sandbox_policy_base.h,33,32,109
+C++,./ppapi/proxy/ppb_url_loader_proxy.cc,82,40,396
+C++,./sandbox/src/policy_target_test.cc,69,43,228
+C/C++ Header,./chrome/browser/page_info_model.h,26,24,72
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/swrast/s_spantemp.h,21,41,159
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/r600/evergreen_state.c,274,100,1514
+C++,./net/websockets/websocket_unittest.cc,50,10,294
+C/C++ Header,./third_party/libxml/src/elfgcchack.h,1556,11,16043
+C++,./net/websockets/websocket_frame_handler.cc,16,9,115
+HTML,./chrome/test/data/translate/sv/google_news.html,70,0,335
+HTML,./chrome/test/data/devtools/debugger_test_page.html,3,0,20
+C/C++ Header,./net/spdy/spdy_session.h,90,128,243
+C++,./third_party/tcmalloc/vendor/src/heap-checker.cc,197,615,1578
+C++,./chrome/browser/mock_plugin_exceptions_table_model.cc,3,3,9
+C,./third_party/libevent/event_tagging.c,90,47,306
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/drivers/dri/common/mmx.h,108,147,305
+C/C++ Header,./chrome_frame/ns_associate_iid_win.h,4,6,5
+make,./third_party/sqlite/src/Makefile.arm-wince-mingw32ce-gcc,20,94,24
+C,./third_party/mesa/MesaLib/src/gallium/drivers/cell/ppu/cell_vertex_fetch.c,50,77,219
+C++,./chrome/browser/ui/views/tab_contents/tab_contents_container_native.cc,14,14,61
+C++,./third_party/mesa/MesaLib/src/glsl/glsl_lexer.cpp,420,430,2638
+C/C++ Header,./views/widget/widget.h,51,94,90
+C/C++ Header,./chrome/gpu/media/gpu_video_device.h,9,28,19
+C++,./webkit/glue/webthemeengine_impl_linux.cc,10,3,163
+C,./third_party/mesa/MesaLib/src/gallium/drivers/llvmpipe/lp_state_vertex.c,22,28,65
+C++,./chrome/browser/ui/tab_contents/tab_contents_wrapper.cc,12,14,40
+C++,./tools/traceline/traceline/main.cc,245,179,915
+C/C++ Header,./webkit/glue/webkit_glue.h,81,108,127
+C/C++ Header,./net/disk_cache/in_flight_io.h,28,57,47
+Javascript,./chrome/test/data/extensions/subscribe_page_action/doc_start.js,2,5,3
+C/C++ Header,./webkit/plugins/ppapi/ppapi_webplugin_impl.h,15,6,76
+C++,./chrome/browser/browser_url_handler.cc,17,22,84
+C/C++ Header,./chrome/browser/geolocation/libgps_wrapper_linux.h,20,24,68
+C/C++ Header,./third_party/jemalloc/vendor/jemalloc.h,20,137,64
+C++,./o3d/core/cross/class_manager.cc,30,40,210
+C++,./chrome/browser/ui/gtk/slide_animator_gtk.cc,27,15,109
+C++,./chrome/common/plugin_carbon_interpose_constants_mac.cc,6,3,8
+C/C++ Header,./chrome/browser/chromeos/dom_ui/login/mock_authenticator_facade_stub.h,8,3,33
+Javascript,./chrome/common/extensions/docs/examples/api/messaging/timer/page.js,1,0,9
+HTML,./chrome/test/data/inspector/test1.html,0,0,4
+C++,./o3d/core/cross/skin_test.cc,130,105,485
+C/C++ Header,./ui/base/win/hwnd_util.h,12,13,20
+C++,./chrome/browser/remoting/setup_flow_register_step.cc,13,7,53
+C++,./chrome/test/webdriver/utility_functions.cc,13,3,70
+C/C++ Header,./tools/memory_watcher/call_stack.h,34,56,78
+Teamcenter def,./third_party/mesa/MesaLib/src/mesa/drivers/windows/gdi/mesa.def,0,0,963
+C/C++ Header,./chrome_frame/bho.h,24,19,82
+C,./third_party/mesa/MesaLib/src/gallium/drivers/r600/r600_screen.c,25,39,229
+C++,./net/third_party/mozilla_security_manager/nsNSSCertificateDB.cpp,20,76,137
+C++,./media/base/mock_filters.cc,26,3,53
+C/C++ Header,./chrome/installer/gcapi/gcapi.h,9,21,24
+C/C++ Header,./o3d/core/cross/draw_list.h,30,57,68
+C++,./chrome/browser/in_process_webkit/indexed_db_key_utility_client.cc,52,26,213
+HTML,./o3d/samples/gpu2d/regression-tests/orientation-bug-2.html,4,31,16
+Objective C++,./chrome/browser/ui/cocoa/location_bar/omnibox_popup_view_unittest.mm,13,12,43
+C/C++ Header,./chrome/browser/extensions/extension_devtools_bridge.h,17,11,29
+CSS,./o3d/samples/third_party/codemirror/css/csscolors.css,10,0,37
+HTML,./chrome/third_party/jstemplate/tutorial_examples/06-jsdisplay.html,3,3,34
+C/C++ Header,./chrome/browser/dom_ui/options/dom_options_util.h,6,7,8
+C/C++ Header,./third_party/yasm/source/config/linux/config.h,56,82,38
+HTML,./chrome/test/data/npapi/self_delete_plugin_geturl.html,7,0,30
+C/C++ Header,./chrome/plugin/plugin_interpose_util_mac.h,16,19,22
+HTML,./chrome/test/data/extensions/api_test/tabs/on_removed/test.html,0,0,2
+C/C++ Header,./chrome/test/mini_installer_test/mini_installer_test_util.h,24,39,47
+C++,./base/stringprintf.cc,27,28,120
+C/C++ Header,./ui/base/models/accelerator.h,21,14,54
+C,./third_party/mesa/MesaLib/src/gallium/tests/graw/clear.c,22,17,76
+Python,./tools/python/google/platform_utils_linux.py,24,54,71
+C++,./chrome/browser/automation/ui_controls_win.cc,77,35,261
+C/C++ Header,./base/safe_strerror_posix.h,6,24,7
+C++,./chrome/app/dummy_main_functions.cc,12,5,35
+C/C++ Header,./chrome/browser/ui/views/infobars/infobar_button_border.h,11,7,35
+C++,./chrome/renderer/translate_helper.cc,55,49,276
+C++,./net/proxy/proxy_resolver_mac.cc,31,37,127
+C,./third_party/gles2_book/Common/Source/esTransform.c,39,18,147
+C++,./chrome/browser/password_manager/password_store_win_unittest.cc,85,46,373
+C/C++ Header,./ui/base/x/active_window_watcher_x.h,17,10,33
+HTML,./chrome/browser/resources/options/add_startup_page_overlay.html,0,0,19
+C++,./o3d/statsreport/const-win32.cc,5,31,10
+C++,./chrome/browser/chromeos/status/clock_menu_button.cc,25,24,83
+C/C++ Header,./chrome/common/important_file_writer.h,22,47,44
+C++,./chrome/browser/speech/endpointer/endpointer.cc,20,16,130
+C,./third_party/mesa/MesaLib/src/gallium/drivers/llvmpipe/lp_state_blend.c,43,35,94
+Javascript,./o3d/samples/third_party/json/json2.js,117,188,177
+C++,./webkit/appcache/view_appcache_internals_job.cc,33,17,210
+C,./third_party/mesa/MesaLib/src/gallium/drivers/i915/i915_clear.c,5,33,9
+C/C++ Header,./chrome/browser/translate/page_translated_details.h,6,4,17
+C++,./third_party/mesa/MesaLib/src/glu/sgi/libnurbs/internals/nurbstess.cc,95,140,456
+C++,./chrome/gpu/gpu_video_service.cc,14,6,62
+Python,./gpu/command_buffer/build_gles2_cmd_buffer.py,535,1051,3862
+C++,./chrome/browser/ui/touch/tabs/touch_tab.cc,42,22,171
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/drivers/llvmpipe/lp_bld_depth.h,13,31,23
+C++,./chrome/browser/geolocation/geolocation_prefs.cc,3,4,7
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/drivers/dri/r128/server/r128.h,74,61,329
+C++,./net/base/mime_sniffer_unittest.cc,37,28,329
+Objective C++,./chrome/browser/ui/cocoa/instant_confirm_window_controller_unittest.mm,8,3,25
+C,./third_party/mesa/MesaLib/src/gallium/auxiliary/gallivm/lp_bld_init.c,32,52,100
+Python,./tools/valgrind/suppressions.py,28,58,132
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/drivers/r300/r300_texture_desc.h,8,22,28
+C++,./chrome/browser/ui/views/options/simple_content_exceptions_view.cc,31,7,152
+Python,./third_party/harfbuzz/contrib/tables/grapheme-break-parse.py,5,1,39
+HTML,./chrome/test/data/constrained_files/target_onload_resizeto.html,0,0,9
+CSS,./ceee/firefox/skin/overlay.css,2,7,15
+C++,./chrome/browser/dom_ui/downloads_ui.cc,24,20,104
+Javascript,./o3d/samples/o3d-webgl/vertex_source.js,7,72,36
+C++,./chrome/browser/dom_ui/options/options_ui_uitest.cc,23,12,93
+C/C++ Header,./third_party/mesa/MesaLib/src/glu/sgi/libnurbs/internals/flist.h,6,33,20
+C/C++ Header,./remoting/protocol/video_writer.h,12,9,21
+C/C++ Header,./chrome/renderer/renderer_webidbfactory_impl.h,6,4,26
+C/C++ Header,./media/omx/omx_configurator.h,30,11,113
+C++,./skia/ext/platform_canvas.cc,11,5,28
+C,./third_party/mesa/MesaLib/src/gallium/targets/egl/pipe_swrast.c,6,0,16
+C/C++ Header,./chrome/browser/zygote_host_linux.h,20,22,56
+C++,./chrome/browser/tabs/default_tab_handler.cc,39,15,144
+C/C++ Header,./chrome/browser/ui/views/importer_view.h,24,24,65
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/main/api_validate.h,15,23,27
+C++,./ppapi/cpp/dev/font_dev.cc,37,10,145
+PHP,./chrome/common/extensions/docs/examples/apps/hello-php/lib/oauth/OAuth.php,137,231,511
+C/C++ Header,./base/string_number_conversions.h,24,48,46
+C++,./chrome/browser/sync/notifier/server_notifier_thread_unittest.cc,29,8,111
+C++,./ui/base/models/table_model.cc,23,13,102
+C/C++ Header,./chrome/browser/dom_ui/options/password_manager_handler.h,30,27,56
+C/C++ Header,./third_party/ocmock/OCMock/OCProtocolMockObject.h,5,4,7
+C,./third_party/mesa/MesaLib/src/gallium/drivers/nvfx/nvfx_vertprog.c,185,58,1210
+C/C++ Header,./chrome/browser/ui/gtk/bookmark_tree_model.h,16,24,37
+Objective C++,./chrome/browser/ui/cocoa/infobars/infobar_gradient_view.mm,14,4,52
+C++,./chrome/browser/autocomplete/history_quick_provider_unittest.cc,32,13,192
+C,./third_party/mesa/MesaLib/src/gallium/drivers/svga/svgadump/svga_dump.c,55,30,1699
+C++,./ui/base/resource/data_pack.cc,35,24,160
+C++,./third_party/protobuf/src/google/protobuf/service.cc,6,32,8
+C,./third_party/mesa/MesaLib/src/gallium/drivers/i965/brw_clip_tri.c,98,102,394
+C/C++ Header,./chrome/browser/chromeos/login/google_authenticator.h,42,60,135
+C++,./ceee/ie/broker/tab_api_module_unittest.cc,196,134,1235
+Objective C++,./chrome/tools/mac_helpers/infoplist_strings_util.mm,35,30,240
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/drivers/r300/r300_vs.h,14,29,24
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/main/api_exec.h,10,23,12
+HTML,./chrome_frame/test/data/event_listener.html,4,1,37
+Objective C++,./chrome/common/sandbox_mac_diraccess_unittest.mm,42,27,235
+C/C++ Header,./third_party/protobuf/src/google/protobuf/testing/googletest.h,17,51,30
+C++,./ceee/ie/plugin/scripting/script_host.cc,155,69,665
+DOS Batch,./chrome/app/check_dependents.bat,1,0,8
+C,./third_party/libjpeg/jdmarker.c,222,284,854
+C++,./chrome/nacl/nacl_thread.cc,16,17,71
+Objective C++,./o3d/plugin/mac/main_mac.mm,163,218,900
+C/C++ Header,./chrome/browser/history/top_sites_backend.h,29,23,54
+Objective C++,./chrome/browser/ui/cocoa/bookmarks/bookmark_bar_folder_window_unittest.mm,9,3,37
+make,./third_party/libxml/src/win32/Makefile,58,51,356
+C/C++ Header,./chrome/browser/plugin_installer_infobar_delegate.h,9,7,22
+C++,./base/test/test_file_util_posix.cc,16,12,84
+C++,./ipc/ipc_message.cc,24,6,96
+C/C++ Header,./chrome/browser/ui/cocoa/download/download_item_mac.h,17,15,31
+C/C++ Header,./chrome/browser/prefs/pref_value_store.h,36,93,106
+C/C++ Header,./chrome/browser/in_process_webkit/indexed_db_context.h,18,11,34
+C/C++ Header,./third_party/npapi/npspy/extern/nspr/prtpool.h,18,49,45
+C/C++ Header,./third_party/npapi/npspy/extern/nspr/prmwait.h,25,339,45
+Objective C,./third_party/ocmock/OCMock/OCMBoxedReturnValueProvider.m,5,4,12
+C++,./gfx/skia_util.cc,12,3,46
+HTML,./chrome/test/data/session_history/bot1.html,0,0,6
+C++,./net/base/host_resolver.cc,22,8,63
+Objective C++,./chrome/browser/ui/cocoa/content_settings/cookie_details_unittest.mm,33,3,211
+C/C++ Header,./chrome/browser/ui/login/login_model.h,7,10,18
+C++,./chrome/browser/safe_browsing/bloom_filter_unittest.cc,26,17,73
+C++,./chrome/renderer/render_widget_fullscreen.cc,10,5,39
+C++,./chrome/browser/plugin_exceptions_table_model_unittest.cc,35,10,173
+C++,./third_party/protobuf/src/google/protobuf/reflection_ops_unittest.cc,81,67,257
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/state_trackers/xorg/xorg_tracker.h,46,51,125
+C/C++ Header,./chrome/browser/webdata/web_data_service_test_util.h,8,3,29
+C++,./app/win/win_util.cc,48,55,223
+C,./third_party/mesa/MesaLib/src/egl/main/eglconfig.c,94,94,649
+Python,./chrome/tools/build/win/dependencies.py,35,57,133
+HTML,./chrome/test/data/extensions/api_test/storage/background.html,3,0,37
+C/C++ Header,./chrome/browser/dom_ui/gpu_internals_ui.h,6,3,11
+C/C++ Header,./webkit/plugins/npapi/webplugin_file_delegate.h,7,9,19
+C++,./chrome/browser/chromeos/dom_ui/language_options_util.cc,5,4,9
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/r300/radeon_common.c,220,147,966
+C,./third_party/mesa/MesaLib/src/glu/sgi/libtess/tess.c,88,93,451
+C/C++ Header,./base/third_party/nspr/prcpucfg.h,3,28,18
+C,./third_party/mesa/MesaLib/src/gallium/drivers/i915/i915_prim_vbuf.c,105,131,524
+C/C++ Header,./gpu/command_buffer/common/gles2_cmd_format.h,79,22,388
+Bourne Shell,./third_party/sqlite/src/mkextu.sh,0,7,6
+C,./third_party/mesa/MesaLib/src/mesa/main/queryobj.c,85,85,395
+C++,./base/scoped_ptr_unittest.cc,30,8,131
+Tcl/Tk,./third_party/sqlite/src/test/boundary3.tcl,26,31,233
+HTML,./chrome/browser/remoting/resources/remoting_setup_done.html,0,0,29
+HTML,./chrome/browser/resources/keyboard/index.html,0,0,1
+C++,./chrome/browser/sync/glue/typed_url_data_type_controller.cc,38,8,185
+Python,./chrome_frame/tools/smoke_test.py,24,14,64
+XSLT,./third_party/libxslt/win32/defgen.xsl,5,12,27
+Python,./third_party/mesa/MesaLib/src/mapi/mapi/mapi_abi.py,70,44,288
+C/C++ Header,./chrome/browser/renderer_host/global_request_id.h,7,6,19
+C/C++ Header,./remoting/protocol/fake_session.h,35,15,100
+IDL,./ceee/ie/broker/broker_rpc_lib.idl,8,0,48
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/drivers/dri/savage/savagecontext.h,61,75,185
+HTML,./chrome/test/data/indexeddb/transaction_test.html,0,0,10
+C++,./chrome/browser/geolocation/gateway_data_provider_common.cc,12,10,68
+C++,./jingle/notifier/communicator/single_login_attempt.cc,16,13,102
+C++,./chrome/browser/ui/gtk/download_started_animation_gtk.cc,41,36,117
+C/C++ Header,./chrome/common/sandbox_methods_linux.h,3,7,15
+C,./third_party/mesa/MesaLib/src/glx/render2.c,30,80,271
+C/C++ Header,./chrome/browser/history/archived_database.h,13,23,28
+C/C++ Header,./chrome/browser/sync/glue/model_associator.h,16,38,30
+C++,./webkit/plugins/ppapi/callbacks_unittest.cc,52,36,162
+C++,./chrome/browser/autofill/fax_number.cc,9,3,21
+C/C++ Header,./chrome/profile_import/profile_import_thread.h,20,25,57
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/include/state_tracker/st_api.h,51,257,152
+C,./third_party/mesa/MesaLib/src/gallium/drivers/i915/i915_screen.c,52,46,286
+C/C++ Header,./remoting/base/constants.h,7,5,8
+C++,./o3d/utils/cross/temporary_file.cc,14,34,41
+C++,./chrome/browser/extensions/extension_i18n_apitest.cc,2,3,5
+C,./third_party/lzma_sdk/Compress/Branch/BranchX86.c,6,1,77
+C/C++ Header,./net/base/sdch_filter.h,24,52,42
+C/C++ Header,./chrome/browser/ui/cocoa/infobars/infobar_test_helper.h,23,9,63
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/program/prog_instruction.h,60,178,216
+C/C++ Header,./jingle/notifier/listener/push_notifications_thread.h,14,15,34
+C/C++ Header,./chrome/browser/dom_ui/options/font_settings_utils.h,7,4,14
+C++,./chrome/browser/locale_tests_uitest.cc,13,8,57
+C++,./tools/memory_watcher/preamble_patcher.cc,26,60,142
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/auxiliary/gallivm/lp_bld_limits.h,10,37,8
+HTML,./chrome/common/extensions/docs/examples/extensions/calendar/views/background.html,0,5,11
+HTML,./chrome/test/data/npapi/execute_script_delete_in_npn_evaluate.html,8,0,31
+C/C++ Header,./remoting/protocol/rtcp_writer.h,14,7,22
+C,./third_party/mesa/MesaLib/src/mesa/x86-64/x86-64.c,21,37,71
+C/C++ Header,./third_party/expat/files/lib/winconfig.h,7,10,15
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/drivers/dri/mga/mgastate.h,3,26,9
+Javascript,./o3d/samples/gpu2d/svgloader.js,51,376,563
+C++,./base/synchronization/lock_impl_posix.cc,10,5,39
+Python,./third_party/simplejson/jsonfilter.py,3,2,35
+C++,./base/task_queue.cc,11,9,29
+C++,./base/win/event_trace_controller_unittest.cc,51,11,148
+C/C++ Header,./chrome/browser/ui/gtk/infobar_gtk.h,35,38,66
+C/C++ Header,./chrome/browser/ui/cocoa/styled_text_field.h,7,12,10
+C++,./gpu/command_buffer/common/cmd_buffer_common.cc,10,6,17
+XML,./third_party/mesa/MesaLib/src/mapi/glapi/gen/ARB_depth_clamp.xml,3,0,9
+C/C++ Header,./chrome/common/json_value_serializer.h,23,44,61
+Python,./third_party/protobuf/python/google/protobuf/internal/decoder.py,108,177,356
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/drivers/cell/ppu/cell_state_emit.h,5,26,5
+C++,./base/string_number_conversions.cc,78,60,396
+C/C++ Header,./views/controls/button/image_button.h,30,38,54
+C++,./third_party/npapi/npspy/common/profile.cpp,4,36,8
+Objective C++,./chrome/browser/geolocation/core_location_data_provider_mac.mm,34,32,179
+C++,./chrome/browser/chromeos/audio_mixer_alsa.cc,78,33,339
+C/C++ Header,./net/disk_cache/experiments.h,6,5,14
+C++,./third_party/protobuf/src/google/protobuf/io/zero_copy_stream_impl.cc,93,71,306
+C/C++ Header,./third_party/mesa/MesaLib/src/glu/sgi/libnurbs/nurbtess/polyUtil.h,3,31,13
+C,./third_party/mesa/MesaLib/src/gallium/drivers/svga/svga_pipe_blit.c,18,25,67
+C,./third_party/mesa/MesaLib/src/gallium/auxiliary/draw/draw_context.c,122,154,416
+C++,./gfx/canvas_skia_linux.cc,61,36,290
+HTML,./chrome/test/data/session_history/post.html,3,0,25
+C,./third_party/mesa/MesaLib/src/mesa/program/prog_statevars.c,65,150,974
+C++,./chrome/renderer/external_popup_menu_unittest.cc,28,25,88
+C/C++ Header,./chrome/common/autofill_messages.h,28,27,70
+HTML,./chrome/common/extensions/docs/index.html,62,44,506
+make,./third_party/mesa/MesaLib/src/gallium/state_trackers/glx/xlib/Makefile,4,0,15
+C/C++ Header,./third_party/protobuf/src/google/protobuf/compiler/java/java_helpers.h,24,60,78
+Python,./third_party/tlslite/tlslite/utils/AES.py,3,5,23
+C/C++ Header,./base/native_library.h,16,19,46
+C++,./o3d/tests/common/cross/main.cc,4,31,14
+Javascript,./net/data/proxy_resolver_v8_unittest/return_unicode.js,0,1,3
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/drivers/dri/savage/savage_init.h,38,39,80
+C/C++ Header,./views/touchui/gesture_manager.h,13,18,22
+Perl,./third_party/libxml/src/dbgenattr.pl,8,0,34
+C++,./net/socket/tcp_client_socket_unittest.cc,71,28,256
+C,./third_party/mesa/MesaLib/src/gallium/auxiliary/target-helpers/wrap_screen.c,11,42,15
+C/C++ Header,./chrome/browser/ui/cocoa/applescript/constants_applescript.h,8,11,12
+C/C++ Header,./net/disk_cache/bitmap.h,31,53,52
+C++,./chrome/common/socket_stream_dispatcher.cc,30,11,176
+C/C++ Header,./net/proxy/proxy_resolver_script_data.h,16,17,38
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/r300/r300_blit.c,87,60,527
+C/C++ Header,./third_party/mesa/MesaLib/src/glw/GLwMDrawAP.h,0,37,4
+Objective C++,./chrome/browser/ui/cocoa/window_size_autosaver_unittest.mm,29,27,149
+C++,./chrome/browser/sync/syncable/syncable_unittest.cc,193,88,1469
+Objective C++,./chrome/browser/accessibility/browser_accessibility_manager_mac.mm,6,7,52
+C++,./o3d/utils/cross/json_writer.cc,28,31,187
+C,./third_party/mesa/MesaLib/src/gallium/state_trackers/wgl/stw_device.c,55,31,137
+HTML,./chrome/test/data/dromaeo/tests/dom-modify.html,533,17,2423
+C,./third_party/libxml/src/xmlstring.c,99,356,529
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/drivers/dri/i915/i915_program.h,35,35,90
+HTML,./chrome/test/data/History/history_length_test_page_1.html,6,0,43
+HTML,./o3d/samples/zsorting.html,22,34,144
+C,./third_party/mesa/MesaLib/src/gallium/targets/graw-xlib/graw_xlib.c,45,11,152
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/drivers/softpipe/sp_setup.h,7,26,20
+make,./third_party/yasm/source/config/mac/Makefile,366,628,2828
+C++,./base/threading/simple_thread.cc,29,10,113
+C++,./ui/base/animation/tween.cc,18,7,61
+HTML,./chrome/test/data/translate/ko/google_news.html,82,0,387
+C/C++ Header,./base/third_party/symbolize/glog/logging.h,1,4,0
+Javascript,./chrome/test/data/extensions/api_test/tabs/capture_visible_tab/test_png.js,7,12,63
+C,./third_party/mesa/MesaLib/src/gallium/drivers/svga/svga_pipe_vertex.c,24,28,84
+C/C++ Header,./chrome/browser/ui/gtk/sad_tab_gtk.h,12,3,25
+HTML,./third_party/mesa/MesaLib/docs/relnotes-7.0.3.html,16,0,68
+C++,./chrome/common/native_web_keyboard_event_linux.cc,18,3,60
+C/C++ Header,./chrome/browser/chromeos/panels/panel_scroller.h,20,13,37
+C++,./chrome/browser/extensions/extension_icon_manager_unittest.cc,23,19,93
+C/C++ Header,./third_party/mesa/MesaLib/src/glsl/safe_strcmp.h,1,24,8
+C++,./media/filters/audio_renderer_base.cc,37,49,192
+C/C++ Header,./chrome/browser/background_mode_manager.h,36,68,76
+C,./third_party/mesa/MesaLib/src/gallium/drivers/nv50/nv50_surface.c,31,24,216
+XML,./third_party/mesa/MesaLib/src/mapi/glapi/gen/ARB_map_buffer_range.xml,9,1,24
+Javascript,./ceee/firefox/defaults/preferences/ceee.js,3,8,7
+HTML,./chrome/browser/resources/options/alert_overlay.html,0,0,12
+C/C++ Header,./base/string_tokenizer.h,23,105,129
+C/C++ Header,./chrome/browser/memory_purger.h,7,7,15
+C++,./gpu/command_buffer/client/fenced_allocator.cc,20,37,151
+C,./third_party/sqlite/src/ext/fts1/fts1_porter.c,47,184,412
+C/C++ Header,./webkit/glue/idb_bindings.h,6,5,14
+C++,./net/socket/tcp_client_socket_pool_unittest.cc,158,103,652
+C++,./base/debug/trace_event_win_unittest.cc,58,28,227
+C,./third_party/mesa/MesaLib/src/gallium/drivers/svga/svga_resource_buffer_upload.c,122,123,395
+C/C++ Header,./chrome/test/nacl/nacl_sandbox_test.h,6,9,13
+C,./third_party/mesa/MesaLib/src/mesa/main/hint.c,18,31,100
+C/C++ Header,./chrome/common/mach_message_source_mac.h,9,30,24
+make,./third_party/mesa/MesaLib/src/gallium/winsys/nouveau/drm/Makefile,4,0,7
+C++,./chrome/renderer/renderer_webidbobjectstore_impl.cc,16,7,138
+C++,./chrome/browser/renderer_host/resource_request_details.cc,7,10,35
+C++,./net/spdy/spdy_framer.cc,144,71,970
+C++,./third_party/mesa/MesaLib/src/glsl/ir_constant_variable.cpp,30,44,124
+HTML,./chrome/test/data/extensions/api_test/history/b.html,0,0,8
+C++,./net/socket/ssl_client_socket_openssl.cc,159,132,901
+C/C++ Header,./remoting/client/rectangle_update_decoder.h,18,16,34
+HTML,./chrome/test/data/extensions/api_test/page_action/remove_popup/a_popup.html,0,0,5
+C++,./third_party/tcmalloc/chromium/src/tests/testutil.cc,30,52,141
+C/C++ Header,./chrome/browser/ui/cocoa/constrained_window_mac.h,31,40,94
+C++,./chrome/browser/search_engines/util.cc,21,23,154
+HTML,./chrome/test/data/extensions/api_test/tabs/on_removed/c.html,0,0,5
+C++,./chrome/test/out_of_proc_test_runner.cc,79,92,457
+C++,./remoting/host/event_executor_win.cc,25,9,117
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/math/m_trans_tmp.h,24,27,230
+C++,./app/win/scoped_prop.cc,8,7,15
+C/C++ Header,./chrome/test/model_test_utils.h,8,23,13
+C++,./o3d/import/cross/targz_processor.cc,9,42,18
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/i915/i915_vtbl.c,114,78,496
+C,./third_party/mesa/MesaLib/src/gallium/drivers/galahad/glhd_context.c,155,31,833
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/r300/r300_tex.c,55,69,262
+C/C++ Header,./base/i18n/rtl.h,23,69,57
+C/C++ Header,./chrome/browser/ui/app_modal_dialogs/message_box_handler.h,7,13,21
+C++,./o3d/utils/cross/file_path_utils.cc,25,64,133
+C/C++ Header,./chrome/installer/util/delete_after_reboot_helper.h,14,37,21
+C/C++ Header,./net/test/test_server.h,55,50,104
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/main/clip.h,11,26,12
+C/C++ Header,./third_party/gles2_book/Common/Include/esUtil.h,25,111,42
+CSS,./chrome/common/extensions/docs/examples/extensions/news/css/options.css,1,9,111
+Objective C++,./chrome/browser/ui/cocoa/about_ipc_controller_unittest.mm,10,5,35
+C,./third_party/libxml/src/testSAX.c,84,317,797
+C++,./remoting/base/capture_data.cc,6,3,17
+C/C++ Header,./chrome/browser/chromeos/login/password_changed_view.h,23,20,61
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/tnl_dd/t_dd_unfilled.h,20,32,118
+C++,./ipc/ipc_message_unittest.cc,16,5,47
+C/C++ Header,./chrome/browser/browsing_instance.h,21,82,32
+C++,./net/base/connection_type_histograms.cc,7,15,18
+C/C++ Header,./net/socket/ssl_client_socket_openssl.h,32,21,113
+C/C++ Header,./chrome/browser/ui/views/options/cookies_view.h,32,27,99
+C++,./chrome/browser/ui/views/frame/opaque_browser_frame_view.cc,113,182,777
+HTML,./o3d/tests/selenium/tests/render-test.html,20,40,76
+Python,./o3d/samples/samples_gen.py,21,62,157
+Tcl/Tk,./third_party/sqlite/src/tool/soak1.tcl,4,23,76
+C/C++ Header,./chrome/browser/autocomplete/autocomplete_edit.h,96,228,176
+C++,./third_party/tcmalloc/chromium/src/tests/tcmalloc_large_unittest.cc,21,49,67
+C/C++ Header,./ppapi/proxy/ppb_audio_config_proxy.h,12,5,33
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/winsys/sw/fbdev/fbdev_sw_winsys.h,4,27,7
+C++,./chrome/test/in_process_browser_test.cc,60,67,230
+HTML,./chrome/test/data/History/history_length_test_page_21.html,5,0,28
+C++,./chrome/browser/ui/views/keyword_editor_view.cc,48,19,241
+IDL,./o3d/plugin/idl/canvas.idl,21,0,164
+HTML,./chrome/app/resources/terms/terms_vi.html,1,0,187
+HTML,./chrome/browser/resources/options/chromeos_accounts_options.html,0,0,55
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/main/pixel.h,18,28,21
+C++,./chrome/browser/ui/views/tab_contents/native_tab_contents_container_gtk.cc,23,36,93
+C/C++ Header,./remoting/base/capture_data.h,17,12,37
+C++,./chrome/test/file_test_utils.cc,3,3,7
+C/C++ Header,./third_party/mesa/MesaLib/src/glsl/ir_variable_refcount.h,14,32,32
+C/C++ Header,./skia/ext/convolver.h,23,61,54
+C/C++ Header,./third_party/tcmalloc/chromium/src/tcmalloc_guard.h,4,36,8
+C++,./webkit/glue/media/buffered_data_source_unittest.cc,107,70,384
+C/C++ Header,./sandbox/src/resolver.h,16,46,41
+C++,./chrome/browser/importer/toolbar_importer_unittest.cc,30,35,419
+C/C++ Header,./chrome/browser/ui/views/download_item_view.h,61,75,145
+Objective C++,./chrome/browser/ui/cocoa/download/download_item_button_unittest.mm,3,5,13
+C,./third_party/talloc/libreplace/test/main.c,9,18,10
+C++,./base/shared_memory_posix.cc,53,42,230
+Javascript,./net/data/proxy_resolver_v8_unittest/direct.js,1,0,3
+C++,./third_party/protobuf/src/google/protobuf/compiler/main.cc,10,33,18
+C/C++ Header,./chrome/browser/ui/cocoa/url_drop_target.h,19,25,31
+C/C++ Header,./third_party/ocmock/OCMock/NSInvocationOCMAdditionsTests.h,3,4,5
+C++,./ppapi/shared_impl/image_data_impl.cc,6,5,18
+HTML,./chrome/test/data/extensions/api_test/geolocation/no_permission/background.html,0,0,22
+C/C++ Header,./webkit/plugins/npapi/plugin_web_event_converter_mac.h,13,17,36
+C++,./chrome/browser/jankometer_mac.cc,3,5,5
+C/C++ Header,./ipc/ipc_message_impl_macros.h,83,17,687
+C/C++ Header,./o3d/core/cross/viewport.h,24,48,36
+C/C++ Header,./chrome/browser/prefs/pref_service_mock_builder.h,14,11,44
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/auxiliary/tgsi/tgsi_sse2.h,12,32,36
+Python,./third_party/mesa/MesaLib/src/mapi/glapi/gen/glX_XML.py,154,108,308
+C/C++ Header,./ppapi/proxy/ppb_font_proxy.h,12,5,54
+C/C++ Header,./chrome/common/hi_res_timer_manager.h,8,7,15
+C++,./webkit/tools/test_shell/simple_resource_loader_bridge.cc,155,122,660
+Bourne Shell,./third_party/talloc/libreplace/autogen.sh,5,0,8
+C++,./chrome/browser/ui/views/info_bubble_unittest.cc,22,43,172
+C/C++ Header,./base/environment.h,15,10,23
+C++,./sandbox/src/interception_unittest.cc,35,38,139
+C++,./chrome/browser/printing/printing_layout_uitest.cc,55,44,327
+C/C++ Header,./net/disk_cache/mem_entry_impl.h,33,51,87
+HTML,./chrome/common/extensions/docs/packaging.html,77,43,559
+C/C++ Header,./chrome/browser/ui/gtk/gtk_custom_menu.h,11,12,31
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/nouveau/nouveau_span.c,35,30,130
+C/C++ Header,./third_party/protobuf/src/google/protobuf/compiler/java/java_service.h,24,45,44
+Objective C++,./chrome/browser/importer/nss_decryptor_mac.mm,12,9,49
+HTML,./chrome/browser/resources/options/font_settings.html,0,0,71
+C,./third_party/mesa/MesaLib/src/glx/dri_common.c,57,53,300
+C/C++ Header,./remoting/client/mock_objects.h,8,3,16
+C/C++ Header,./app/gfx/gl/gl_context_osmesa.h,13,8,33
+C,./third_party/mesa/MesaLib/src/gallium/drivers/llvmpipe/lp_flush.c,19,49,69
+C++,./o3d/core/cross/tree_traversal.cc,43,86,233
+C/C++ Header,./jingle/notifier/communicator/connection_settings.h,16,4,48
+Assembly,./third_party/mesa/MesaLib/src/mesa/sparc/xform.S,161,18,1213
+C,./third_party/harfbuzz/src/harfbuzz-myanmar.c,58,67,417
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/drivers/dri/sis/sis_dd.h,10,23,5
+Python,./third_party/mesa/MesaLib/src/gallium/tests/graw/fragment-shader/fragment-shader.py,34,36,187
+C/C++ Header,./third_party/libxslt/libexslt/libexslt.h,5,7,17
+C/C++ Header,./net/socket/tcp_client_socket_pool.h,51,15,132
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/main/drawtex.h,16,22,22
+C++,./sandbox/sandbox_poc/pocdll/fs.cc,7,7,40
+HTML,./chrome/test/data/npapi/plugin_thread_async_call.html,8,0,34
+C/C++ Header,./third_party/tcmalloc/chromium/src/thread_cache.h,69,130,203
+C/C++ Header,./webkit/plugins/npapi/test/plugin_windowed_test.h,9,5,19
+C/C++ Header,./net/http/http_network_session.h,27,12,142
+C++,./chrome/browser/ui/gtk/import_dialog_gtk.cc,36,14,166
+C++,./webkit/plugins/npapi/plugin_stream_posix.cc,15,3,58
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/include/pipe/p_compiler.h,57,76,143
+HTML,./chrome/common/extensions/docs/examples/extensions/email_this_page/background.html,8,5,62
+C/C++ Header,./remoting/host/test_key_pair.h,1,4,25
+HTML,./chrome/test/data/extensions/api_test/notifications/has_permission_manifest/notification.html,0,0,12
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/main/pixelstore.h,13,27,11
+HTML,./chrome/test/data/extensions/api_test/permissions/nacl_enabled/background.html,5,0,37
+C,./third_party/mesa/MesaLib/src/gallium/drivers/llvmpipe/lp_setup_tri.c,114,163,443
+C/C++ Header,./chrome/browser/speech/speech_input_dispatcher_host.h,17,11,35
+C/C++ Header,./chrome/common/net/test_url_fetcher_factory.h,24,79,55
+C/C++ Header,./chrome/browser/ui/toolbar/encoding_menu_controller.h,13,12,31
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/drivers/i915/i915_debug_private.h,5,28,12
+C++,./chrome/browser/platform_util_common_linux.cc,25,16,96
+C/C++ Header,./base/message_pump_mac.h,54,117,114
+HTML,./chrome_frame/test/data/context_menu.html,7,0,36
+C++,./chrome/browser/download/save_types.cc,5,3,23
+C,./third_party/mesa/MesaLib/src/gallium/targets/xorg-i915/intel_target.c,7,0,19
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/drivers/softpipe/sp_state.h,58,38,176
+C/C++ Header,./webkit/plugins/ppapi/ppapi_unittest.h,15,8,34
+C++,./net/base/registry_controlled_domain.cc,35,80,179
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/i915/i915_debug_fp.c,45,26,257
+C++,./chrome/browser/chromeos/notifications/desktop_notifications_unittest.cc,42,23,205
+C++,./base/linux_util.cc,43,28,226
+C/C++ Header,./chrome/renderer/safe_browsing/features.h,31,97,46
+C/C++ Header,./chrome/browser/ui/views/options/languages_page_view.h,22,22,74
+HTML,./chrome/common/extensions/docs/static/autoupdate.html,32,0,78
+C/C++ Header,./chrome/browser/download/download_manager.h,74,151,167
+C/C++ Header,./chrome/browser/bookmarks/bookmark_model_test_utils.h,4,8,16
+C/C++ Header,./third_party/wtl/include/atlmisc.h,601,270,3147
+HTML,./o3d/samples/o3d-webgl-samples/convolution.html,56,41,301
+Javascript,./chrome/browser/resources/shared/js/media_common.js,5,3,15
+C++,./base/crypto/symmetric_key_nss.cc,27,9,91
+C++,./third_party/protobuf/src/google/protobuf/compiler/cpp/cpp_field.cc,16,38,85
+C/C++ Header,./chrome/common/extensions/extension.h,149,248,384
+C++,./net/tools/dump_cache/cache_dumper.cc,26,45,142
+HTML,./o3d/samples/o3d-webgl-samples/particles.html,56,35,500
+C,./third_party/mesa/MesaLib/src/gallium/state_trackers/glx/xlib/glx_getproc.c,41,54,120
+C,./third_party/mesa/MesaLib/src/gallium/drivers/i965/brw_vs_state.c,40,45,116
+C/C++ Header,./o3d/core/cross/canvas.h,35,109,60
+C++,./base/utf_string_conversions.cc,39,24,123
+C++,./chrome/test/webdriver/commands/find_element_commands.cc,18,11,83
+C++,./chrome/browser/ui/views/accessible_pane_view.cc,34,32,185
+C/C++ Header,./chrome/browser/ui/cocoa/infobars/infobar.h,9,20,19
+C++,./chrome/browser/ui/views/extensions/extension_installed_bubble.cc,47,34,278
+C/C++ Header,./net/test/python_utils.h,8,7,10
+C++,./base/third_party/symbolize/symbolize.cc,78,152,451
+C/C++ Header,./chrome/browser/net/view_http_cache_job_factory.h,5,3,14
+HTML,./chrome/test/data/extensions/api_test/browser_action/none/background.html,0,0,6
+C++,./chrome/browser/dom_ui/bookmarks_ui.cc,11,15,37
+make,./third_party/mesa/MesaLib/src/gallium/drivers/r600/Makefile,4,0,23
+Javascript,./chrome/third_party/jstemplate/exports.js,0,0,3
+HTML,./chrome/common/extensions/docs/examples/api/tabs/screenshot/background.html,1,0,9
+Python,./third_party/mesa/MesaLib/src/gallium/tests/python/retrace/parse.py,74,31,287
+C/C++ Header,./third_party/mesa/MesaLib/src/glsl/ir_print_visitor.h,9,36,38
+C++,./chrome_frame/test/chrome_frame_automation_mock.cc,11,3,33
+C/C++ Header,./chrome/browser/ui/gtk/gtk_util.h,85,161,134
+HTML,./chrome_frame/test/data/javascript_redirect.html,0,0,11
+C++,./o3d/utils/cross/file_text_reader.cc,27,47,116
+C++,./chrome/browser/chromeos/panels/panel_scroller.cc,40,34,174
+C/C++ Header,./net/third_party/nss/ssl/ssl.h,83,446,228
+C++,./jingle/notifier/communicator/login.cc,20,10,102
+C/C++ Header,./third_party/gles2_book/Chapter_9/TextureWrap/TextureWrap.h,14,15,23
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/drivers/trace/tr_dump.h,22,54,112
+C++,./net/tools/flip_server/epoll_server.cc,99,154,561
+C++,./ceee/ie/common/ceee_util_unittest.cc,11,10,34
+C/C++ Header,./chrome/browser/chromeos/notifications/system_notification_factory.h,9,6,21
+C,./third_party/mesa/MesaLib/src/mesa/state_tracker/st_manager.c,127,98,656
+C/C++ Header,./chrome/browser/ui/cocoa/styled_text_field_cell.h,15,23,20
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/include/state_tracker/swrast_screen_create.h,13,11,43
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/drivers/dri/r300/radeon_bocs_wrapper.h,24,2,76
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/i965/brw_vtbl.c,31,49,127
+C++,./chrome/common/desktop_notifications/active_notification_tracker.cc,15,4,65
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/r200/r200_tex.c,69,80,393
+HTML,./chrome/test/data/english_page.html,0,0,7
+C/C++ Header,./third_party/protobuf/src/google/protobuf/compiler/python/python_generator.h,24,39,92
+C++,./media/base/yuv_convert.cc,28,50,268
+C/C++ Header,./chrome/service/cloud_print/job_status_updater.h,11,15,52
+C/C++ Header,./ppapi/tests/test_utils.h,11,3,22
+C/C++ Header,./sandbox/src/interceptors_64.h,35,41,84
+C++,./chrome/browser/ui/tabs/dock_info_gtk.cc,37,40,143
+C++,./sandbox/tests/validation_tests/commands.cc,45,11,196
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/r300/r300_shader.c,22,28,95
+C/C++ Header,./webkit/extensions/v8/benchmarking_extension.h,7,6,10
+Python,./tools/site_compare/drivers/win32/keyboard.py,40,76,82
+Objective C++,./chrome/browser/ui/cocoa/extensions/extension_installed_bubble_controller.mm,44,54,280
+C/C++ Header,./o3d/plugin/cross/async_loading.h,10,34,23
+HTML,./chrome/test/data/extensions/context_menus/separators/test1.html,0,0,2
+C/C++ Header,./chrome/browser/ui/views/unhandled_keyboard_event_handler.h,8,11,19
+C++,./base/win/i18n.cc,21,15,133
+HTML,./chrome/test/data/encoding_tests/alias_mapping/gb18030.html,1,0,14
+C,./third_party/mesa/MesaLib/src/gallium/drivers/r300/r300_render_stencilref.c,21,38,70
+C++,./base/debug_message.cc,2,8,7
+C/C++ Header,./chrome/browser/history/history_publisher.h,21,14,49
+C++,./ceee/ie/plugin/bho/cookie_accountant.cc,28,30,205
+C/C++ Header,./o3d/core/cross/message_commands.h,84,125,221
+C,./third_party/mesa/MesaLib/src/egl/main/eglimage.c,22,6,62
+C++,./chrome/browser/debugger/devtools_window.cc,48,29,342
+C++,./chrome_frame/com_type_info_holder.cc,26,6,92
+C++,./net/proxy/proxy_list_unittest.cc,22,21,104
+C++,./base/i18n/time_formatting.cc,15,5,49
+C,./third_party/mesa/MesaLib/src/gallium/winsys/sw/wrapper/wrapper_sw_winsys.c,62,44,200
+C++,./views/controls/menu/menu_gtk.cc,18,5,59
+C/C++ Header,./webkit/glue/webcookie.h,14,15,22
+C++,./chrome/renderer/audio_message_filter_unittest.cc,41,10,149
+C++,./views/controls/menu/native_menu_gtk.cc,69,74,420
+C/C++ Header,./third_party/libxml/src/include/libxml/valid.h,39,87,332
+C/C++ Header,./o3d/collada_edge/cross/conditioner.h,16,48,57
+Javascript,./o3d/samples/o3d-webgl/counter.js,58,284,472
+C/C++ Header,./chrome/browser/chromeos/login/image_decoder.h,17,9,29
+C++,./o3d/core/cross/gles2/primitive_gles2.cc,30,52,178
+Objective C++,./chrome/browser/ui/cocoa/importer/importer_lock_dialog.mm,5,3,26
+Javascript,./chrome/browser/resources/options/deletable_item_list.js,24,68,92
+DOS Batch,./chrome/tools/build/win/version.bat,15,0,56
+make,./third_party/hyphen/tests/Makefile.am,2,0,111
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/drivers/dri/r600/evergreen_diff.h,24,70,241
+C++,./chrome/browser/extensions/extension_infobar_module.cc,11,4,48
+C/C++ Header,./chrome_frame/chrome_frame_activex_base.h,185,205,896
+C++,./app/surface/accelerated_surface_mac.cc,35,69,241
+HTML,./o3d/samples/o3d-webgl-samples/vertex-shader-animation.html,28,35,140
+HTML,./chrome/installer/setup/eula/oem_nl.html,0,0,48
+C/C++ Header,./o3d/core/cross/event_manager.h,18,58,32
+C/C++ Header,./chrome/browser/ui/cocoa/sidebar_controller.h,14,16,21
+HTML,./o3d/samples/manipulators/rotate1.html,7,34,44
+Perl,./third_party/libxml/src/dbgen.pl,8,0,35
+HTML,./chrome/test/data/dom_checker/dom_blank_page.html,0,0,2
+HTML,./chrome/browser/resources/gpu_internals.html,15,7,69
+C/C++ Header,./third_party/libsrtp/config/config.h,1,5,0
+C/C++ Header,./third_party/npapi/npspy/extern/nspr/prproces.h,20,51,44
+C++,./chrome/common/pref_store.cc,2,3,4
+C/C++ Header,./ppapi/cpp/dev/context_3d_dev.h,12,4,22
+C/C++ Header,./o3d/core/cross/timingtable.h,20,46,126
+C,./third_party/sqlite/src/src/test7.c,38,139,548
+C++,./media/tools/player_wtl/player_wtl.cc,19,6,68
+HTML,./webkit/data/plugins/plugin_visibility_iframe.html,0,0,1
+C/C++ Header,./third_party/openmax/il/OMX_Component.h,65,220,294
+C++,./chrome/browser/ui/gtk/bookmark_editor_gtk.cc,87,55,447
+C/C++ Header,./sandbox/src/win2k_threadpool.h,10,19,29
+C++,./chrome/renderer/safe_browsing/phishing_dom_feature_extractor_browsertest.cc,48,55,222
+C/C++ Header,./chrome/browser/ui/cocoa/bookmarks/bookmark_button.h,56,114,76
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/auxiliary/util/u_dump.h,48,44,87
+HTML,./chrome/test/data/session_history/replace.html,0,0,4
+Javascript,./o3d/samples/interactive_logic.js,81,92,403
+C/C++ Header,./chrome/renderer/render_process.h,13,23,28
+C++,./chrome/browser/extensions/extension_webnavigation_api_constants.cc,5,3,21
+C,./third_party/mesa/MesaLib/src/egl/main/eglscreen.c,48,58,168
+C++,./media/video/ffmpeg_video_allocator.cc,24,26,131
+C/C++ Header,./net/base/address_list_net_log_param.h,8,6,15
+C/C++ Header,./ui/base/keycodes/keyboard_code_conversion_gtk.h,9,32,9
+C/C++ Header,./third_party/talloc/libreplace/replace.h,133,90,503
+C++,./third_party/mesa/MesaLib/src/glsl/ir_vec_index_to_cond_assign.cpp,47,56,155
+C++,./o3d/core/cross/matrix4_axis_rotation.cc,9,31,30
+C/C++ Header,./chrome/browser/download/save_file.h,8,10,24
+C++,./views/focus/focus_manager_win.cc,8,7,21
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/main/dd.h,115,592,467
+C++,./chrome/common/extensions/extension_icon_set.cc,9,5,48
+C/C++ Header,./ipc/ipc_channel_win.h,22,15,53
+C/C++ Header,./chrome/browser/chromeos/login/helper.h,44,40,97
+C++,./chrome/browser/safe_browsing/safe_browsing_util.cc,88,52,366
+C++,./o3d/core/cross/math_utilities_test.cc,5,30,13
+Objective C++,./chrome/browser/ui/cocoa/options/custom_home_pages_model.mm,28,14,98
+C/C++ Header,./chrome/browser/chromeos/login/html_page_screen.h,22,12,52
+C++,./webkit/plugins/ppapi/ppb_video_decoder_impl.cc,36,7,108
+HTML,./chrome/browser/debugger/manual_tests/profiler-test-focus-and-exclude.html,0,0,71
+C/C++ Header,./chrome/browser/ui/views/first_run_bubble.h,14,8,34
+C/C++ Header,./app/gfx/gl/gl_context_egl.h,27,21,71
+C++,./media/tools/shader_bench/gpu_painter.cc,13,9,67
+C/C++ Header,./net/tools/flip_server/split.h,7,5,12
+HTML,./chrome/test/data/extensions/api_test/tabs/connect/relative.html,0,0,9
+C/C++ Header,./chrome/common/appcache/appcache_backend_proxy.h,7,5,35
+Objective C++,./chrome/browser/ui/cocoa/content_settings/cookie_details_view_controller.mm,19,21,70
+Objective C++,./chrome/browser/ui/cocoa/content_settings/cookie_details_view_controller_unittest.mm,13,3,72
+Perl,./tools/memory_watcher/scripts/finditem.pl,8,3,42
+Python,./third_party/protobuf/python/google/protobuf/text_format.py,119,180,374
+HTML,./chrome/common/extensions/docs/examples/api/bookmarks/basic/popup.html,0,0,139
+C++,./chrome/browser/chromeos/status/clock_menu_button_browsertest.cc,7,6,41
+C,./third_party/mesa/MesaLib/src/gallium/drivers/r600/r600_context.c,17,32,107
+DTD,./third_party/mesa/MesaLib/src/mesa/main/APIspec.dtd,7,0,45
+make,./third_party/mesa/MesaLib/src/gallium/winsys/i965/xlib/Makefile,30,7,60
+Python,./tools/grit/grit/format/policy_templates/writers/adml_writer_unittest.py,23,20,295
+HTML,./o3d/samples/shader-test.html,45,35,333
+C++,./chrome/service/cloud_print/print_system.cc,9,3,20
+C++,./chrome/browser/ui/views/browser_actions_container_browsertest.cc,56,32,192
+Javascript,./chrome/test/data/ssl/set_foo.js,0,0,1
+C/C++ Header,./third_party/expat/files/lib/xmltok.h,57,43,216
+C/C++ Header,./chrome/browser/sync/glue/extension_data_type_controller.h,23,7,44
+Bourne Shell,./third_party/tcmalloc/chromium/src/tests/debugallocation_test.sh,9,38,31
+C,./third_party/mesa/MesaLib/src/gallium/state_trackers/xorg/xorg_dri2.c,69,74,326
+Python,./third_party/mesa/MesaLib/src/gallium/tests/graw/vertex-shader/vertex-shader.py,35,36,216
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/state_trackers/vega/path.h,28,26,72
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/i965/brw_fallback.c,20,52,69
+HTML,./chrome/common/extensions/docs/static/packaging.html,30,1,131
+HTML,./chrome/common/extensions/docs/experimental.infobars.html,80,58,692
+HTML,./chrome/test/data/download-test2.html,0,0,4
+C++,./printing/backend/print_backend_cups.cc,45,45,180
+HTML,./chrome/browser/resources/shared/js/cr/ui/array_data_model_test.html,11,0,36
+HTML,./o3d/samples/o3d-webgl-samples/sobel.html,50,40,249
+C/C++ Header,./third_party/mesa/MesaLib/src/egl/main/eglcurrent.h,28,15,45
+C/C++ Header,./chrome/common/zip.h,5,9,8
+Javascript,./chrome/test/data/extensions/context_menus/separators/test2.js,3,5,6
+HTML,./chrome/browser/printing/cloud_print/resources/cloud_print_setup_done.html,0,0,24
+Python,./tools/grit/grit/format/policy_templates/writers/xml_formatted_writer.py,10,3,41
+Objective C++,./chrome/browser/automation/automation_provider_mac.mm,6,3,26
+Javascript,./chrome/browser/resources/wrench_menu.js,35,82,194
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/state_trackers/xorg/xorg_renderer.h,22,8,66
+C/C++ Header,./third_party/protobuf/src/google/protobuf/compiler/cpp/cpp_string_field.h,14,34,56
+C/C++ Header,./chrome/browser/autofill/autofill_address_model_mac.h,9,16,34
+C,./third_party/libevent/devpoll.c,69,62,286
+C++,./chrome/browser/ui/views/local_storage_info_view.cc,21,11,102
+HTML,./chrome/common/extensions/docs/static/manifest.html,58,1,397
+C,./third_party/lcov/example/example.c,13,21,26
+C/C++ Header,./chrome/browser/prefs/pref_set_observer.h,13,13,35
+C/C++ Header,./third_party/mesa/MesaLib/src/gallium/auxiliary/translate/translate_cache.h,6,38,10
+Objective C++,./chrome/browser/ui/cocoa/tab_contents/sad_tab_controller_unittest.mm,18,13,82
+HTML,./chrome/test/data/devtools/page_with_content_script.html,2,0,11
+C,./third_party/mesa/MesaLib/src/gallium/auxiliary/draw/draw_pipe_aaline.c,187,161,617
+C/C++ Header,./ppapi/cpp/dev/file_ref_dev.h,21,15,32
+HTML,./chrome/common/extensions/docs/static/tut_debugging.html,35,2,225
+C/C++ Header,./chrome/test/nacl/nacl_test.h,14,23,23
+C/C++ Header,./chrome/app/hard_error_handler_win.h,8,21,8
+C/C++ Header,./webkit/appcache/appcache.h,45,26,90
+C/C++ Header,./third_party/mesa/MesaLib/src/glu/sgi/libnurbs/nurbtess/partitionY.h,14,62,21
+XML,./third_party/mesa/MesaLib/src/mapi/glapi/gen-es/es2_EXT.xml,23,6,133
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/r300/r300_emit.c,30,32,73
+C++,./ceee/ie/plugin/bho/web_progress_notifier.cc,94,58,541
+C++,./chrome/browser/autofill/autofill_manager_unittest.cc,199,162,1227
+C++,./net/socket_stream/socket_stream_metrics_unittest.cc,27,21,136
+C++,./views/examples/example_base.cc,16,11,46
+C,./third_party/mesa/MesaLib/src/mesa/math/m_xform.c,17,47,64
+C,./third_party/undoview/undo_view.c,17,4,62
+C/C++ Header,./chrome/installer/util/work_item_list.h,32,49,76
+C++,./ipc/ipc_channel_posix_unittest.cc,43,33,280
+C/C++ Header,./third_party/npapi/npspy/extern/nspr/prclist.h,16,69,52
+Javascript,./chrome/test/data/extensions/api_test/extension_gallery_install/common.js,3,5,12
+C,./third_party/mesa/MesaLib/src/gallium/drivers/i915/i915_state_emit.c,55,59,309
+C,./third_party/mesa/MesaLib/src/mesa/tnl/t_pipeline.c,33,66,111
+C/C++ Header,./chrome/tools/convert_dict/dic_reader.h,14,11,24
+C++,./chrome/renderer/translate_helper_browsertest.cc,40,30,217
+C,./third_party/mesa/MesaLib/src/gallium/auxiliary/gallivm/lp_bld_format_yuv.c,74,94,231
+C++,./chrome/test/interactive_ui/npapi_interactive_test.cc,16,12,53
+C/C++ Header,./views/examples/scroll_view_example.h,24,12,102
+C,./third_party/mesa/MesaLib/src/gallium/drivers/r300/r300_screen_buffer.c,52,41,258
+C++,./sandbox/src/eat_resolver.cc,21,6,62
+C++,./base/third_party/icu/icu_utf.cc,18,108,102
+C/C++ Header,./chrome/browser/chromeos/login/auth_attempt_state_resolver.h,5,5,12
+C/C++ Header,./media/base/state_matrix.h,17,3,41
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/drivers/dri/unichrome/via_tris.h,4,23,8
+Objective C++,./chrome/browser/ui/cocoa/location_bar/instant_opt_in_controller_unittest.mm,14,3,45
+Python,./tools/perf_expectations/tests/perf_expectations_unittest.py,20,32,95
+HTML,./chrome/test/data/extensions/api_test/tabs/on_updated/browserThenRendererInitiated/b.html,0,0,1
+C/C++ Header,./chrome/browser/ui/cocoa/animatable_image.h,12,20,25
+C++,./net/http/http_util.cc,129,163,585
+HTML,./o3d/samples/fullscreen.html,46,35,286
+C/C++ Header,./ppapi/proxy/callback_tracker.h,15,24,27
+C++,./webkit/tools/test_shell/test_shell_webthemecontrol.cc,48,46,347
+HTML,./chrome_frame/test/data/CFInstall_basic.html,5,0,36
+HTML,./chrome/browser/resources/options/chromeos_language_hangul_options.html,0,0,18
+C++,./ipc/ipc_sync_message_filter.cc,23,7,97
+Javascript,./tools/page_cycler/common/head.js,9,5,109
+C/C++ Header,./chrome/browser/debugger/devtools_client_host.h,16,13,35
+C/C++ Header,./third_party/protobuf/src/google/protobuf/compiler/code_generator.h,17,75,40
+C++,./sandbox/tools/finder/finder_fs.cc,18,6,93
+C++,./remoting/host/screen_recorder.cc,80,45,247
+HTML,./chrome/app/resources/terms/terms_fr.html,1,0,192
+C++,./base/crypto/rsa_private_key_mac.cc,24,11,122
+Bourne Again Shell,./tools/git/post-merge,3,3,6
+C++,./chrome/common/render_messages_params.cc,155,19,1478
+C++,./chrome/renderer/extensions/chrome_app_bindings.cc,14,3,65
+C/C++ Header,./third_party/mesa/MesaLib/src/mesa/drivers/dri/savage/savageioctl.h,30,37,136
+HTML,./webkit/data/dom_serializer/nonstandard_htmlentities.htm,0,0,1
+C++,./printing/page_setup_unittest.cc,20,17,109
+C/C++ Header,./printing/printing_context_mac.h,13,8,36
+C/C++ Header,./views/controls/table/native_table_gtk.h,19,20,51
+C++,./o3d/core/cross/processed_path.cc,19,40,100
+C,./third_party/mesa/MesaLib/src/mesa/drivers/dri/r128/r128_lock.c,20,44,43
+C/C++ Header,./chrome/browser/in_process_webkit/dom_storage_context.h,35,58,64
+C++,./chrome/browser/ui/gtk/create_application_shortcuts_dialog_gtk.cc,55,33,242
+XML,./chrome/test/data/omnibox_tests.xml,0,0,38
+Objective C++,./chrome/common/chrome_application_mac.mm,16,6,54
+C++,./chrome/browser/importer/firefox3_importer.cc,74,53,461
+C++,./net/http/http_auth_gssapi_posix.cc,82,63,744
+C,./third_party/mesa/MesaLib/src/mesa/state_tracker/st_atom_shader.c,51,82,132
+C/C++ Header,./chrome/browser/ui/cocoa/find_bar/find_bar_text_field_cell.h,7,7,10
+C/C++ Header,./chrome/browser/ui/gtk/custom_drag.h,23,16,61
+C/C++ Header,./chrome/browser/policy/mock_device_management_backend.h,16,7,64
+C/C++ Header,./o3d/plugin/win/update_lock.h,15,38,51
